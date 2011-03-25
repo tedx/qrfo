@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/newqrcode" 
+    	android:id="@+id/newqrcode"
+    	android:icon="@android:drawable/ic_menu_add">
+    </item>
+    <item android:title="@string/listqr" 
+    	android:id="@+id/listqr"
+    	android:icon="@android:drawable/ic_menu_view">
+    </item>
+</menu>

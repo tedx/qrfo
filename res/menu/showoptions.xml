@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/make_default" android:id="@+id/makedefault">
+    </item>
+    <item android:title="@string/delete" android:id="@+id/delete" 
+    	android:icon="@android:drawable/ic_menu_delete">
+    </item>
+</menu>

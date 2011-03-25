@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRFo</string>
+    <string name="hintname">Name</string>
+    <string name="hintcompanyname">Company</string>
+    <string name="phonenumber">Phone</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="address2">Address2</string>
+    <string name="website">Web site</string>
+    <string name="generate">Generate</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="url_gen_error">Error creating QR code generation url.</string>
+    <string name="newqrcode">New QR</string>
+    <string name="event_title">Event title</string>
+    <string name="event_location">Location</string>
+    <string name="event_description">Description</string>
+    <string name="event_start_date">Start date</string>
+    <string name="event_end_date">End date</string>
+    <string name="event_start_time">Time</string>
+    <string name="event_end_time">Time</string>
+    <string name="no_default">No default QR code set, use menu to create</string>
+    <string name="save">Save</string>
+    <string name="save_as_default">Save as Default</string>
+    <string name="main_no_items">No items</string>
+    <string name="listqr">List QR codes</string>
+    <string name="make_default">Make default QR</string>
+    <string name="msg_intent_failed">Failed to add event to calendar</string>
+    <string name="http_get_error">Failed http request to generate QR code. You can retry this request.</string>
+    <string name="gen_wait_msg">Generating QR code. Please wait ...</string>
+    <string name="name_required">A name is required.</string>
+    <string name="event_title_required">Event title required.</string>
+</resources>
